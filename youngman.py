@@ -127,7 +127,7 @@ class Dictionary(object):
 
 class CheckList(object):
 
-    list = [ 'mihaela', 'role', 'model', 'read', 'book', 'books' 'study', 'school', 'community', 'friendship', 'friendships', 'respect', 'spiritual', 'spirit', 'love', 'workout', 'friend', 'good', 'learn', 'brave', 'exercise' ]
+    list = [ 'mihaela', 'role', 'model', 'mentor', 'read', 'book', 'books', 'study', 'school', 'community', 'friendship', 'friendships', 'respect', 'spiritual', 'spirit', 'love', 'workout', 'friend', 'good', 'learn', 'brave', 'exercise', 'ego', 'control' ]
 
     def __init__(self, answer):
         self.answer = answer
